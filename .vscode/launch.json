@@ -1,0 +1,1 @@
+{"version":"0.2.0","configurations":[{"name":"Prism Pixel","type":"debugpy","request":"launch","program":"${workspaceFolder}/src/app.py","cwd":"${workspaceFolder}","console":"integratedTerminal"}]}
